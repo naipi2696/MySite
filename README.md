@@ -2,6 +2,7 @@
 
 通过 Vercel Dashboard (最简单)
 访问 Vercel 官网 并注册/登录
+https://vercel.com/
 
 点击 "Add New Project"
 
